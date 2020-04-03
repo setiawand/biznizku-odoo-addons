@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <template id="assets_backend" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+            <style>
+            body.o_web_client header {
+                background-color: #7b7bad;
+            }
+            </style>
+        </xpath>
+        </template>
+    </data>
+</odoo>
