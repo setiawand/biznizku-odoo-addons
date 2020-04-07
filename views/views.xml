@@ -6,6 +6,7 @@
             <style>
             body.o_web_client header {
                 background-color: #7b7bad;
+                color: white;
             }
             </style>
         </xpath>
